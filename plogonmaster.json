@@ -3,7 +3,7 @@
     "Author": "Wrepsk",
     "Name": "Fable Sync",
     "InternalName": "FableSync",
-    "AssemblyVersion": "1.13.0",
+    "AssemblyVersion": "1.13.1",
     "Description": "A character synchronization plugin for FFXIV that synchronizes character mods and appearance with other players.",
     "ApplicableVersion": "any",
     "RepoUrl": "",
