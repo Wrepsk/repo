@@ -19,12 +19,12 @@
   },
   {
     "Author": "Wrepsk",
-    "Name": "Linkpearl",
-    "InternalName": "Linkpearl",
+    "Name": "Linkpearl Test",
+    "InternalName": "WrepskLinkpearlTest",
     "AssemblyVersion": "1.0.0",
     "Description": "A plugin to provide proximity-based voice chat for FFXIV.",
     "ApplicableVersion": "any",
-    "RepoUrl": "",
+    "RepoUrl": "https://github.com/Wrepsk/repo",
     "DalamudApiLevel": 14,
     "LoadPriority": 0,
     "IconUrl": "https://raw.githubusercontent.com/Wrepsk/repo/main/Linkpearl/images/icon.png",
@@ -32,7 +32,6 @@
     "IsHide": false,
     "IsTestingExclusive": false,
     "DownloadLinkInstall": "https://github.com/Wrepsk/repo/releases/download/1.0.0/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Wrepsk/repo/releases/download/1.0.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Wrepsk/repo/releases/download/1.0.0/latest.zip"
   }
 ]
