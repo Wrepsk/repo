@@ -38,8 +38,8 @@
     "Punchline": "Proximity voice chat based on FFXIV's Object Table.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadLinkInstall": "",
-    "DownloadLinkTesting": "",
-    "DownloadLinkUpdate": ""
+    "DownloadLinkInstall": "https://github.com/Wrepsk/repo/releases/download/Linkpearl_v0.1/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Wrepsk/repo/releases/download/Linkpearl_v0.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Wrepsk/repo/releases/download/Linkpearl_v0.1/latest.zip"
   }
 ]
