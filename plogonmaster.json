@@ -22,7 +22,7 @@
     "Author": "Wrepsk",
     "Name": "Linkpearl",
     "InternalName": "Linkpearl",
-    "AssemblyVersion": "0.1",
+    "AssemblyVersion": "0.1.0",
     "Description": "A plugin to provide proximity-based voice chat for FFXIV.",
     "ApplicableVersion": "any",
     "RepoUrl": "",
