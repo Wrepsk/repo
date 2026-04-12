@@ -1,7 +1,7 @@
 {
   "Author": "Wrepsk",
   "Name": "Linkpearl",
-  "InternalName": "Linkpearl",
+  "InternalName": "LinkpearlChat",
   "AssemblyVersion": "1.0.0",
   "Description": "A plugin to provide proximity-based voice chat for FFXIV.",
   "ApplicableVersion": "any",
