@@ -7,7 +7,6 @@
     "Description": "A character synchronization plugin for FFXIV that synchronizes character mods and appearance with other players.",
     "ApplicableVersion": "any",
     "RepoUrl": "",
-    "Tags": [ "customization" ],
     "DalamudApiLevel": 14,
     "LoadPriority": 0,
     "IconUrl": "https://raw.githubusercontent.com/Wrepsk/repo/main/FableSync/images/icon.png",
@@ -26,12 +25,6 @@
     "Description": "A plugin to provide proximity-based voice chat for FFXIV.",
     "ApplicableVersion": "any",
     "RepoUrl": "",
-    "Tags": [
-      "voice",
-      "proximity",
-      "chat",
-      "linkpearl"
-    ],
     "DalamudApiLevel": 14,
     "LoadPriority": 0,
     "IconUrl": "https://raw.githubusercontent.com/Wrepsk/repo/main/Linkpearl/images/icon.png",
