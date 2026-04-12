@@ -7,7 +7,7 @@
     "Description": "A character synchronization plugin for FFXIV that synchronizes character mods and appearance with other players.",
     "ApplicableVersion": "any",
     "RepoUrl": "",
-    "Tags": ["customization"],
+    "Tags": [ "customization" ],
     "DalamudApiLevel": 14,
     "LoadPriority": 0,
     "IconUrl": "https://raw.githubusercontent.com/Wrepsk/repo/main/FableSync/images/icon.png",
@@ -17,5 +17,29 @@
     "DownloadLinkInstall": "https://github.com/Wrepsk/repo/releases/download/2.0.0/latest.zip",
     "DownloadLinkTesting": "https://github.com/Wrepsk/repo/releases/download/2.0.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Wrepsk/repo/releases/download/2.0.0/latest.zip"
+  },
+  {
+    "Author": "Wrepsk",
+    "Name": "Linkpearl",
+    "InternalName": "Linkpearl",
+    "AssemblyVersion": "0.1",
+    "Description": "A plugin to provide proximity-based voice chat for FFXIV.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "",
+    "Tags": [
+      "voice",
+      "proximity",
+      "chat",
+      "linkpearl"
+    ],
+    "DalamudApiLevel": 14,
+    "LoadPriority": 0,
+    "IconUrl": "https://raw.githubusercontent.com/Wrepsk/repo/main/Linkpearl/images/icon.png",
+    "Punchline": "Proximity voice chat based on FFXIV's Object Table.",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadLinkInstall": "",
+    "DownloadLinkTesting": "",
+    "DownloadLinkUpdate": ""
   }
 ]

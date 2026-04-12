@@ -1,0 +1,21 @@
+{
+  "Author": "Wrepsk",
+  "Name": "Linkpearl",
+  "InternalName": "Linkpearl",
+  "AssemblyVersion": "0.1",
+  "Description": "A plugin to provide proximity-based voice chat for FFXIV.",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "voice",
+    "proximity",
+    "chat",
+    "linkpearl"
+  ],
+  "DalamudApiLevel": 14,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "Proximity voice chat based on FFXIV's Object Table.",
+  "AcceptsFeedback": true
+}
