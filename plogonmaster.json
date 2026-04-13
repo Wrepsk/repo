@@ -21,7 +21,7 @@
     "Author": "Wrepsk",
     "Name": "Linkpearl",
     "InternalName": "LinkpearlChat",
-    "AssemblyVersion": "1.0.1",
+    "AssemblyVersion": "1.0.2",
     "Description": "A plugin to provide proximity-based voice chat for FFXIV.",
     "ApplicableVersion": "any",
     "RepoUrl": "",
@@ -31,7 +31,7 @@
     "Punchline": "Proximity voice chat based on FFXIV's Object Table.",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://github.com/Wrepsk/repo/releases/download/1.0.1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Wrepsk/repo/releases/download/1.0.1/latest.zip"
+    "DownloadLinkInstall": "https://github.com/Wrepsk/repo/releases/download/1.0.2/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Wrepsk/repo/releases/download/1.0.2/latest.zip"
   }
 ]
