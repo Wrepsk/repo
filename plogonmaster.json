@@ -15,6 +15,20 @@
   },
   {
     "Author": "Wrepsk",
+    "Name": "Crystal Cast",
+    "InternalName": "CrystalCast",
+    "AssemblyVersion": "0.1.0.0",
+    "Description": "Renders a local-only world-space image/video screen through Pictomancy. Use /crystalcast to configure placement, source, and sync IPC state.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Wrepsk/crystal-cast",
+    "DalamudApiLevel": 15,
+    "IconUrl": "https://raw.githubusercontent.com/Wrepsk/repo/main/CrystalCast/images/icon.png",
+    "Punchline": "World-space video screen prototype.",
+    "DownloadLinkInstall": "https://github.com/Wrepsk/crystal-cast/releases/download/0.1.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Wrepsk/crystal-cast/releases/download/0.1.0/latest.zip"
+  },
+  {
+    "Author": "Wrepsk",
     "Name": "Linkpearl",
     "InternalName": "LinkpearlChat",
     "AssemblyVersion": "1.0.4",
