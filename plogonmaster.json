@@ -3,29 +3,29 @@
     "Author": "Wrepsk",
     "Name": "Fable Sync",
     "InternalName": "FableSync",
-    "AssemblyVersion": "2.1.2.0",
+    "AssemblyVersion": "2.2.0.0",
     "Description": "A character synchronization plugin for FFXIV that synchronizes character mods and appearance with other players.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Wrepsk/repo",
     "DalamudApiLevel": 15,
     "IconUrl": "https://raw.githubusercontent.com/Wrepsk/repo/main/FableSync/images/icon.png",
     "Punchline": "Synchronize your character appearance with other players",
-    "DownloadLinkInstall": "https://github.com/Wrepsk/repo/releases/download/2.1.2/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Wrepsk/repo/releases/download/2.1.2/latest.zip"
+    "DownloadLinkInstall": "https://github.com/Wrepsk/repo/releases/download/2.2.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Wrepsk/repo/releases/download/2.2.0/latest.zip"
   },
   {
     "Author": "Wrepsk",
     "Name": "Crystal Cast",
     "InternalName": "CrystalCast",
-    "AssemblyVersion": "0.3.1.0",
+    "AssemblyVersion": "0.4.0.0",
     "Description": "Renders a local-only world-space image/video screen through Pictomancy. Use /crystalcast to configure placement, source, and sync IPC state.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Wrepsk/crystal-cast",
     "DalamudApiLevel": 15,
     "IconUrl": "https://raw.githubusercontent.com/Wrepsk/repo/main/CrystalCast/images/icon.png",
     "Punchline": "World-space video screen prototype.",
-    "DownloadLinkInstall": "https://github.com/Wrepsk/crystal-cast/releases/download/0.3.1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Wrepsk/crystal-cast/releases/download/0.3.1/latest.zip"
+    "DownloadLinkInstall": "https://github.com/Wrepsk/crystal-cast/releases/download/0.4.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Wrepsk/crystal-cast/releases/download/0.4.0/latest.zip"
   },
   {
     "Author": "Wrepsk",
