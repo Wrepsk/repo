@@ -3,15 +3,15 @@
     "Author": "Wrepsk",
     "Name": "Fable Sync",
     "InternalName": "FableSync",
-    "AssemblyVersion": "2.2.4.0",
+    "AssemblyVersion": "2.2.5.0",
     "Description": "A character synchronization plugin for FFXIV that synchronizes character mods and appearance with other players.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Wrepsk/repo",
     "DalamudApiLevel": 15,
     "IconUrl": "https://raw.githubusercontent.com/Wrepsk/repo/main/FableSync/images/icon.png",
     "Punchline": "Synchronize your character appearance with other players",
-    "DownloadLinkInstall": "https://github.com/Wrepsk/repo/releases/download/2.2.4/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Wrepsk/repo/releases/download/2.2.4/latest.zip"
+    "DownloadLinkInstall": "https://github.com/Wrepsk/repo/releases/download/2.2.5/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Wrepsk/repo/releases/download/2.2.5/latest.zip"
   },
   {
     "Author": "Wrepsk",
@@ -24,8 +24,8 @@
     "DalamudApiLevel": 15,
     "IconUrl": "https://raw.githubusercontent.com/Wrepsk/repo/main/CrystalCast/images/icon.png",
     "Punchline": "World-space video screen prototype.",
-    "DownloadLinkInstall": "https://github.com/Wrepsk/crystal-cast/releases/download/0.4.4/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Wrepsk/crystal-cast/releases/download/0.4.4/latest.zip"
+    "DownloadLinkInstall": "https://github.com/Wrepsk/crystal-cast/releases/download/0.4.5/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Wrepsk/crystal-cast/releases/download/0.4.5/latest.zip"
   },
   {
     "Author": "Wrepsk",
